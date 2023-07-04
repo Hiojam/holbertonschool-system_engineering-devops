@@ -1,0 +1,5 @@
+The main problem with this infrastructure is when a new code for the WEB is deployed, if only one server is used it'll be temporarily down since the web servers needs to be restarted.
+
+In addition, this infrastructure isn't scalable and won't be able to handle traffic beyond its server capacity.
+
+Link: https://ibb.co/fXryhhB
